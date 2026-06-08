@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "apk_url": "https://github.com/moiz9855/aura/releases/download/v2.0.0/aura.apk",
-  "changelog": "Bug fixes and improvements"
+  "version": "2.0.1",
+  "apk_url": "https://github.com/moiz9855/aura/releases/download/v2.0.1/aura.apk",
+  "changelog": "Likes, comments, pinning, notification permission prompt, fallback Gemini models, and profile screen redesign."
 }
