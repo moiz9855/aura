@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "apk_url": "https://github.com/moiz9855/aura/releases/download/v2.0.1/aura.apk",
-  "changelog": "Likes, comments, pinning, notification permission prompt, fallback Gemini models, and profile screen redesign."
+  "version": "2.0.2",
+  "apk_url": "https://github.com/moiz9855/aura/releases/download/v2.0.2/aura.apk",
+  "changelog": "Paywall, profile tags, comment likes, notification navigation, forced updates, bot message limit interstitial"
 }
